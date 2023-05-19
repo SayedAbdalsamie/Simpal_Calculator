@@ -49,7 +49,7 @@ Keypad: Provides functions for reading input from a keypad.
 
 ## Demo
     
-https://github.com/Sayedabdalsamie/Simpal_Calculator/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4
+- ![video](https://github.com/Sayedabdalsamie/Simpal_Calculator/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4)
 
 
   
